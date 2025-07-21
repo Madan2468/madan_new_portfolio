@@ -487,7 +487,7 @@ export default function Portfolio() {
                             </div>
                           </div>
 
-                          <div className="hover:bg-green-900/20 p-3 rounded transition-all duration-300 border-l-2 border-transparent hover:border-green-400">
+                          {/* <div className="hover:bg-green-900/20 p-3 rounded transition-all duration-300 border-l-2 border-transparent hover:border-green-400">
                             <div className="text-green-300 hover:text-green-200 font-semibold">
                               "youtube_full_backend"
                             </div>
@@ -505,7 +505,7 @@ export default function Portfolio() {
                                 "view_on_github" →
                               </a>
                             </div>
-                          </div>
+                          </div> */}
                         </div>
                         ],
                       </div>
