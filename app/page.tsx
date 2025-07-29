@@ -227,7 +227,7 @@ export default function Portfolio() {
                     <Linkedin size={14} className="group-hover:animate-bounce" />
                   </a>
                   <a
-                    href="https://drive.google.com/file/d/1v6rBxRN9S6wSepuU2QJhx6tPmH0npakO/view"
+                    href="https://drive.google.com/file/d/1rjet2Db3AIm6XP4i9ouhpb89Gv-AExzG/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-8 h-8 bg-green-900/50 border border-green-400 rounded flex items-center justify-center hover:bg-green-400 hover:text-black hover:scale-110 hover:rotate-12 transition-all duration-300 group"
