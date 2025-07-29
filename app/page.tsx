@@ -564,7 +564,7 @@ export default function Portfolio() {
                           <div>
                             <span className="text-green-300">"resume"</span>:{" "}
                             <a
-                              href="https://drive.google.com/file/d/1v6rBxRN9S6wSepuU2QJhx6tPmH0npakO/view"
+                              href="https://drive.google.com/file/d/1rjet2Db3AIm6XP4i9ouhpb89Gv-AExzG/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="text-green-200 underline hover:text-green-100 hover:glow transition-all duration-300"
